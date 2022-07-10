@@ -1,2 +1,5 @@
 # coursera-repo
-Repository for Coursera IBM Skills Network assignments &amp; projects
+
+## Description: Repository for Coursera IBM Skills Network assignments &amp; projects
+
+It's a markdown file in this repository.
